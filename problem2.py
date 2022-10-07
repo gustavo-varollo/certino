@@ -37,7 +37,3 @@ class StringFileIteration:
                 )
             )
         )
-
-
-print(StringFileIteration("input/input2.txt").valid_strings())
-print(StringFileIteration("input/input2.txt").valid_strings_in_positions())
